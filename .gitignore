@@ -41,12 +41,3 @@ desktop.ini
 .env.*
 *.log
 
-# Generated and processed data
-data/processed/*
-!data/processed/.gitkeep
-
-# Generated outputs
-outputs/figures/*
-outputs/tables/*
-!outputs/figures/.gitkeep
-!outputs/tables/.gitkeep
